@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CollectionOfJokes</string>
+
+    <string name="mainActivityTitle">Выберите тему анекдотов :</string>
+    <string name="mainActivityBTN1">Про Вовочку</string>
+    <string name="mainActivityBTN2">Про зверей</string>
+    <string name="mainActivityBTN3">Про студентов</string>
+    <string name="mainActivityBTN4">Про рыбалку</string>
+    <string name="mainActivityBTN5">Про спорт</string>
+
+    <string name="lokesActivityBTN1">Назад</string>
+    <string name="lokesActivityBTN2">Вперед</string>
+    <string name="lokesActivityBTN3">Выйти</string>
+</resources>
